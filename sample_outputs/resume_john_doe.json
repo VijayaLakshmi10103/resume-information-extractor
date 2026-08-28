@@ -1,0 +1,27 @@
+{
+    "name": "JOHN DOE",
+    "email": "john.doe@gmail.com",
+    "phone": "+91 9876543210",
+    "skills": [
+        "Python",
+        "Java",
+        "SQL",
+        "HTML",
+        "CSS",
+        "Machine Learning"
+    ],
+    "education": [
+        {
+            "degree": "B.Tech in Computer Science",
+            "institution": "ABC University"
+        }
+    ],
+    "experience": [
+        {
+            "role": "Software Developer Intern",
+            "company": "ABC Technologies"
+        }
+    ],
+    "linkedin": "https://www.linkedin.com/in/johndoe",
+    "github": "https://github.com/johndoe"
+}

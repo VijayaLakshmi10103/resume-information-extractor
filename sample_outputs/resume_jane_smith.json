@@ -1,0 +1,26 @@
+{
+    "name": "JANE SMITH",
+    "email": "jane.smith@gmail.com",
+    "phone": "+91 9123456789",
+    "skills": [
+        "Python",
+        "JavaScript",
+        "SQL",
+        "React",
+        "Machine Learning"
+    ],
+    "education": [
+        {
+            "degree": "B.Tech in Electronics and Communication Engineering",
+            "institution": "XYZ University"
+        }
+    ],
+    "experience": [
+        {
+            "role": "Python Developer Intern",
+            "company": "ABC Technologies"
+        }
+    ],
+    "linkedin": "https://www.linkedin.com/in/janesmith",
+    "github": "https://github.com/janesmith"
+}
